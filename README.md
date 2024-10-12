@@ -3,12 +3,12 @@
 ## Perfil
 
 ### **Mestrando em Desenvolvimento e meio ambiente - Universidade Federal de Pernambuco**
-Pesquisa modelagem climatica e hidrologica.
-Analise de series temporais de evaporação de lagos em regiões semiaridas.
-#### **Graduado em Geografia - Universidade Federal de Pernambuco**
-Dedicous-se a pesquisas sobre modelagem climatica, com analises sobre efeitos 
-das mudanças climaticas em séries climatologicas.
-Membro do laboratorio de Geoprocessamento e Sensoriamento Remoto, onde participou e ministrou 
-diversas formações sobre sensoriemnto remoto e analise de dados geograficos.
-##### **Graduando em Sistemas de Informação - Universidade Federal Rural de Pernambuco**
-Dedica-se a estudos da linguagem Python e R para analises de dados.
+*Pesquisa modelagem climática e hidrológica.
+*Análise de séries temporais de evaporação de lagos em regiões semiáridas.
+### **Graduado em Geografia - Universidade Federal de Pernambuco**
+*Dedicou-se a pesquisas sobre modelagem climática, com análises sobre efeitos 
+das mudanças climáticas em séries climatológicas.
+*Membro do laboratório de Geoprocessamento e Sensoriamento Remoto, onde participou e ministrou 
+diversas formações sobre sensoriamento remoto e análise de dados geográficos.
+### **Graduando em Sistemas de Informação - Universidade Federal Rural de Pernambuco**
+*Dedica-se a estudos da linguagem Python e R para análises de dados.
