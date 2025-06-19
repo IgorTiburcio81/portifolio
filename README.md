@@ -12,4 +12,9 @@ das mudanças climáticas ao logo  de uma série temporal de 60 anos.
 * Membro do laboratório de Geoprocessamento e Sensoriamento Remoto, onde participou e ministrou 
 diversas formações sobre sensoriamento remoto e análise de dados geográficos, python e estatística.
 ### **Graduando em Sistemas de Informação - Universidade Federal Rural de Pernambuco**
-* Dedica-se a aprofundar conhecimentos nas linguagem Python e R para análises de dados, estatística e machine learning.
+
+## Ferramentas
+
+* Python - Pandas, Numpy, Matplotlib, statsmodels, scikit-learn, beautifulsoup.
+* SQL - MySql, PostgreSql.
+* Power BI
