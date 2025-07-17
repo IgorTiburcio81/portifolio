@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Profissional de dados em formação, cursando Sistemas de Informação, visando transformar dados brutos em insights e suporte para tomada de decisões de negócio.<br><br>- 🔭 Estou trabalhando como análise de dados<br>- 📚 Estou aprendendo atualmente Machine Learning, me profundando em Power BI e SQL.</p>
+<p align="left">Profissional de dados em formação, cursando Sistemas de Informação, visando transformar dados brutos em insights e suporte para tomada de decisões de negócio.<br><br>- 🔭 Estou trabalhando com análise de dados<br>- 📚 Estou aprendendo atualmente Machine Learning, me profundando em Power BI e SQL.</p>
 
 ###
 
